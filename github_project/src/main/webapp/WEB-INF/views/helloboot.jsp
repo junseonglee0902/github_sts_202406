@@ -38,7 +38,7 @@ $(document).ready(function(){
 <img src="/images/html5.jpg" >
 
 <input type=button id="ajaxbtn" value="ajax요청">
-<div id="result">ajax 결과 = </div>
+<div id="result">ajax 결과 = <br></div>
 
 </body>
 </html>
