@@ -4,7 +4,7 @@ import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 import org.jasypt.encryption.pbe.config.SimpleStringPBEConfig;
 
 //복호화
-public class jasyptDBDE_JavaApplication {
+public class JasyptDBDE_JavaApplication {
 
 	public static void main(String[] args) {
 		SimpleStringPBEConfig config =  new SimpleStringPBEConfig();
